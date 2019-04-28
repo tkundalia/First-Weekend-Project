@@ -1,21 +1,23 @@
 
 #inn {
-    
+    border: 1px solid gray;
 }
 
 #bagger {
-
+    border: 1px solid gray;
 }
 
 #bag{
-
+    border: 1px solid gray;
+    
 }
 
 .WeaponImages{
     object-fit: cover;
     
-    max-width: 80%;
-    max-height: 20rem;
+    max-height: 100%;
+    max-width: 100%;
+    margin: 0 auto;
     display: block;
     display: flex;
     align-items: flex-start;
